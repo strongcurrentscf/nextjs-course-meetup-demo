@@ -7969,6 +7969,8 @@ export default MeetupDetails;
 
 ## Deploying Next.js Projects
 
+sudo everything
+
 ## Using Fallback Pages & Re-deploying
 
 ##
