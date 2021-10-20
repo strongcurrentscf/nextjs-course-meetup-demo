@@ -7894,6 +7894,7 @@ import MeetupDetail from "../../components/meetups/MeetupDetail";
 const MeetupDetails = (props) => {
 return (
 <Fragment>
+
 <Head>
 <title>{props.meetupData.title}</title>
 <meta name="description" content={props.meetupData.description} />
